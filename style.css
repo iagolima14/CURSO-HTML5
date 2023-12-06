@@ -1,3 +1,15 @@
+@font-face {
+    font-family: alexbancks;
+    src: url('SlicedABV2.otf');
+}
+html{
+    background-color: antiquewhite;
+    font-family: alexbancks, cursive;
+    font-style: italic;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-size: 1.6rem;
+}
 h1{
     color: red;
 }
