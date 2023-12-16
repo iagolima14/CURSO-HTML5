@@ -12,15 +12,18 @@ html{
 }
 h1{
     color: red;
+    text-align: center;
 }
 main h1{
     color: black;
 }
 h2 {
     color: green;
+    text-align: center;
 }
 p{
     color: yellowgreen;
+    text-indent: 2rem;
 }
 .titulo-aula{
     text-decoration: underline;
@@ -33,6 +36,7 @@ p{
 }
 #titulo-primeira-aula{
     text-decoration: none;
+    text-decoration: line-through;
 }
 #titulo-segunda-aula{
     color: brown;
@@ -41,5 +45,8 @@ p{
     color: blue;
 }
 .comentario{
+    color: red;
+}
+a:hover{
     color: red;
 }
